@@ -73,6 +73,11 @@
 ### 🎞️ <a href="https://player.vimeo.com/video/770017885?h=caac0de6f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479">시연영상</a>
 <br/>
 
+### 💡 발전 방향
+    ⚬ 와이파이 모듈을 이용해 게임 점수를 웹에 등록하는 기능
+    ⚬ 난이도를 선택할 수 있는 기능 (속도, 장애물 개수 조절)
+    ⚬ 웹과 DB를 연동해 사용자의 순위를 비교하는 기능         
+
 ### 👩🏻‍🏫 참고 자료
     ⚬ https://www.youtube.com/watch?v=nXdEqbL_6jg
     ⚬ https://create.arduino.cc/projecthub/juanma-alvarez-plaza/arduino-catch-the-beat-8x8-led-matrix-f464b0?ref=search&ref_id=8x8&offset=17
