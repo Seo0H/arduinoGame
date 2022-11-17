@@ -6,6 +6,9 @@
 ![example_image](./image/example_image.png)          
 <br/>
 
+### 🎞️ <a href="https://player.vimeo.com/video/770017885?h=caac0de6f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479">시연영상</a>
+<br/>
+
 ### 🛠️ 사용 툴 / 언어
     ⚬ Arduino IDE
     ⚬ C++
@@ -69,9 +72,6 @@
 </pre>
 </div>
 </details>      
-
-### 🎞️ <a href="https://player.vimeo.com/video/770017885?h=caac0de6f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479">시연영상</a>
-<br/>
 
 ### 💡 발전 방향
     ⚬ 와이파이 모듈을 이용해 게임 점수를 웹에 등록하는 기능
