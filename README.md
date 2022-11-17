@@ -70,7 +70,7 @@
 </div>
 </details>      
 
-### 🎞️<a href="https://player.vimeo.com/video/770017885?h=caac0de6f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"><img src="https://img.shields.io/badge/시연영상-lightgrey?style=for-the-badge&logo=Vimeo&logoColor=white"  height="30"/></a>
+### 🎞️ <a href="https://player.vimeo.com/video/770017885?h=caac0de6f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479">시연영상</a>
 <br/>
 
 ### 👩🏻‍🏫 참고 자료
